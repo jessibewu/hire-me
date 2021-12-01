@@ -6,6 +6,7 @@
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Technologies Used](#Technologies-Used)
+- [Installation](#Installation)
 - [Screenshot](#Screenshot)
 - [Links](#Links)
 
@@ -43,25 +44,35 @@ WHEN I click on my profile
 THEN I get a summary of how many jobs are saved and applied for
 ```
 
-## Technologies Used:
+## Technologies Used
 
-Material UI
-React
-Google Maps
-Javascript
-Heroku
-EmailJS
-MongoDB
-GraphQL
-JWT
+ - Material UI
+ - React
+ - Google Maps
+ - Javascript
+ - Heroku
+ - EmailJS
+ - MongoDB
+ - GraphQL
+ - JWT
+
+## Installation
+- Download or clone the repository 
+- Run npm install
+- Type "npm run dev"
+
+File Structure Overview:
+
+<img src="./frontend/src/assets/file-structure.png" width="250">
 
 ## Screenshot
 
-![HOME](./home.png)
-![MYJOBS](./MyJobs.png)
-![ContactUs](./ContactUs.png)
+![HOME](./frontend/src/assets/home.png)
+![MYJOBS](./frontend/src/assets/MyJobs.png)
+![ContactUs](./frontend/src/assets/ContactUs.png)
 
 ## Links
 
-- URL of the deployed application: https://enigmatic-headland-23847.herokuapp.com/
-- URL of the GitHub repository: https://github.com/csarmiento17/hire-me
+URL of the deployed application: 
+
+https://enigmatic-headland-23847.herokuapp.com/
