@@ -12,11 +12,11 @@
 
 ## Project Description
 
-This application is a job search engineer equipped with the powerful Google Map​ gives job seekers direct access to the location of jobs they are searching for​
+This application is a job search engine which has Google Maps integrated​, as current or existing job search engines do not have such feature. It will provide job seekers direct access to the location of jobs they are searching for​.
 
 As a client, I can register myself into the portal. Then I can login into the portal and search for jobs based on my location. I can save jobs and also apply to jobs. Furthermore these jobs would be displayed on the My Jobs page where you can see the number of applied and saved jobs. You have the ability to remove saved jobs as well.
 
-Th application has been deployed on Heroku.
+The application has been deployed on Heroku.
 
 ## User Story
 
