@@ -1,4 +1,4 @@
-# HireMe Group 4, Project 3
+# Hire Me
 
 ## Table of Contents
 
@@ -25,6 +25,7 @@ SO THAT I can apply for the jobs that suit my need
 
 ## Acceptance Criteria
 
+```
 GIVEN a job search portal
 WHEN I click register
 THEN I was asked to provide first name, last name, email and password
@@ -40,6 +41,7 @@ WHEN I click the apply button
 THEN the job will be added in the applied jobs of my profile
 WHEN I click on my profile
 THEN I get a summary of how many jobs are saved and applied for
+```
 
 ## Technologies Used:
 
